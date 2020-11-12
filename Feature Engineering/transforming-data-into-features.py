@@ -67,3 +67,4 @@ reviews = reviews[['clothing_id', 'age', 'recommended', 'rating', 'Bottoms', 'Dr
 reviews = reviews.set_index('clothing_id')
 scaler = StandardScaler()
 scaler.fit_transform(reviews)
+
