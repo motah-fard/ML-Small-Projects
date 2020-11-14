@@ -1,1 +1,1 @@
-# ML Samll Projects
+# ML Small Projects
